@@ -1,0 +1,14 @@
+{
+  "name": "devops-practica-final",
+  "version": "1.0.0",
+  "description": "Práctica final DevOps con CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
