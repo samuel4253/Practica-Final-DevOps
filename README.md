@@ -6,4 +6,4 @@ Este proyecto incluye:
 - Prueba unitaria con Jest
 - Dockerfile para correr con nginx
 - Workflow CI/CD con GitHub Actions
-- Publicación con GitHub Pages
+- Publicación con GitHub Pages: https://samuel4253.github.io/Practica-Final-DevOps/
